@@ -1,0 +1,13 @@
+# Syntax Coloring Map For wireUtil
+
+wireUtil	KEYWORD1
+
+attachTimeoutHandler	KEYWORD2
+attachErrorHandler	KEYWORD2
+getTimeoutFlag	KEYWORD2
+writeRegister	KEYWORD2
+writeRegisters	KEYWORD2
+readRegister	KEYWORD2
+readRegisters	KEYWORD2
+setRegisterBit	KEYWORD2
+begin	KEYWORD2

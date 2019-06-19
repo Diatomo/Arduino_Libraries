@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+buttonBoard 		KEYWORD1
+buttonSelect 		KEYWORD1
+buttonToggle 		KEYWORD1
+buttonToggleNoLamp 	KEYWORD1
+defaultState 		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update 			KEYWORD2
+autoUpdate 		KEYWORD2
+byteWrite		KEYWORD2
+byteRead		KEYWORD2
+setLamp			KEYWORD2
+getButton		KEYWORD2
+getLampState	KEYWORD2
+getInPtr		KEYWORD2
+getOutPtr		KEYWORD2
+getState 		KEYWORD2
+setState		KEYWORD2
+poll			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+buttonReset		LITERAL1

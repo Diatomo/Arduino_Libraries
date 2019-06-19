@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+digits 			KEYWORD1
+digitGroup		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update 			KEYWORD2
+autoUpdate 		KEYWORD2
+setDigit		KEYWORD2
+getPtr			KEYWORD2
+segDisp			KEYWORD2
+segDispSign		KEYWORD2
+chaseAnimation		KEYWORD2
+chaseAnimation8		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
